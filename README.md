@@ -1,3 +1,7 @@
+About
+It is a React Based IPL Gamer website that gives the details about all the teams and Players, made using React, React Router, React Bootstrap, Material UI. It discloses all the IPL details like Points Table and schedule too...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
