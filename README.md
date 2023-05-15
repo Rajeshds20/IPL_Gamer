@@ -1,4 +1,3 @@
-About
 It is a React Based IPL Gamer website that gives the details about all the teams and Players, made using React, React Router, React Bootstrap, Material UI. It discloses all the IPL details like Points Table and schedule too...
 
 
